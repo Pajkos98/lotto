@@ -1,0 +1,14 @@
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\bin\Debug\netcoreapp3.1\lottoconsole.exe
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\bin\Debug\netcoreapp3.1\lottoconsole.deps.json
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\bin\Debug\netcoreapp3.1\lottoconsole.runtimeconfig.json
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\bin\Debug\netcoreapp3.1\lottoconsole.runtimeconfig.dev.json
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\bin\Debug\netcoreapp3.1\lottoconsole.dll
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\bin\Debug\netcoreapp3.1\lottoconsole.pdb
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\obj\Debug\netcoreapp3.1\lottoconsole.csproj.AssemblyReference.cache
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\obj\Debug\netcoreapp3.1\lottoconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\obj\Debug\netcoreapp3.1\lottoconsole.AssemblyInfoInputs.cache
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\obj\Debug\netcoreapp3.1\lottoconsole.AssemblyInfo.cs
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\obj\Debug\netcoreapp3.1\lottoconsole.csproj.CoreCompileInputs.cache
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\obj\Debug\netcoreapp3.1\lottoconsole.dll
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\obj\Debug\netcoreapp3.1\lottoconsole.pdb
+C:\Users\KomPhone\source\repos\WinFormsApp3\lottoconsole\obj\Debug\netcoreapp3.1\lottoconsole.genruntimeconfig.cache
